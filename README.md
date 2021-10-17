@@ -1,5 +1,7 @@
 使い方
 
+初めて使うときは，pip install -r requirements.txtが必要です。venv推奨。
+
 python main.py [動画のパス] --times [時間1] [時間2] [時間3] ...
 
 時間のフォーマットは
